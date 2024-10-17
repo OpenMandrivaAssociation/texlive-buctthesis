@@ -3,7 +3,7 @@ Version:	67818
 Release:	1
 Summary:	Beijing University of Chemical Technology Thesis Template
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/buctthesis
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/buctthesis
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/buctthesis.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/buctthesis.doc.r%{version}.tar.xz
